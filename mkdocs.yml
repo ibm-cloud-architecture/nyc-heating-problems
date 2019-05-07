@@ -2,8 +2,6 @@ site_name: New York city heating problems solution
 repo_url: https://github.com/ibm-cloud-architecture/nyc-heating-problems
 nav:
   - Welcome: index.md
-  - Business problem statement:
-    - Introduction: introduction.md
   - Architecture: architecture.md
   - Demonstration: ./demo/readme.md
 
